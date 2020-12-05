@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kc0w4w8fqp775vqh?svg=true)](https://ci.appveyor.com/project/Tatiana0325/ra-lifecycle-http-hw2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
